@@ -105,7 +105,7 @@ fprintf('Part 6 : Melakukan metode interpolasi Newton \n');
 p = 2.5;
 yp = NewtonInterpolation(x,y,p)
 fprintf('Kode yang anda kerjakan adalah benar jika outputnya adalah \n');
-fprintf(' -0.75 \n');
+fprintf(' -0.22656 \n');
 fprintf('Tekan tombol apapun untuk lanjut\n\n');
 pause;
 
